@@ -1,0 +1,110 @@
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.exe
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.deps.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.runtimeconfig.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.AssemblyReference.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Form1.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Properties.Resources.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.GenerateResource.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfoInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfo.cs
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.CoreCompileInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\refint\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.genruntimeconfig.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\ref\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.VehicleSale.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AutoPartsLookupForm.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Carwash.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VS Projects\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AboutUs.resources
+\\technet.wf.uct.ac.za\profiledata$\TMBTEN003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.AssemblyReference.cache
+\\technet.wf.uct.ac.za\profiledata$\TMBTEN003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+\\technet.wf.uct.ac.za\profiledata$\TMBTEN003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\refint\VendaBoulevardAutoCentre.dll
+\\technet.wf.uct.ac.za\profiledata$\TMBTEN003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.exe
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.deps.json
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.runtimeconfig.json
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AboutUs.resources
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AutoPartsLookupForm.resources
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Carwash.resources
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Form1.resources
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Properties.Resources.resources
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.VehicleSale.resources
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.GenerateResource.cache
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.GeneratedMSBuildEditorConfig.editorconfig
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfoInputs.cache
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfo.cs
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.CoreCompileInputs.cache
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.genruntimeconfig.cache
+\\technet.wf.uct.ac.za\profiledata$\tmbten003\Desktop\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\ref\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.exe
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.deps.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.runtimeconfig.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.AssemblyReference.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AboutUs.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AutoPartsLookupForm.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Carwash.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Form1.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Properties.Resources.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.VehicleSale.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.GenerateResource.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfoInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfo.cs
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.CoreCompileInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\refint\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.genruntimeconfig.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\VendaBoulevardAutoCentre\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\ref\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.exe
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.deps.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.runtimeconfig.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.AssemblyReference.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AboutUs.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AutoPartsLookupForm.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Carwash.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Form1.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Properties.Resources.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.VehicleSale.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.GenerateResource.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfoInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfo.cs
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.CoreCompileInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\refint\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.genruntimeconfig.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\ref\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.exe
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.deps.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.runtimeconfig.json
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\bin\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.AssemblyReference.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AboutUs.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AutoPartsLookupForm.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Carwash.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Form1.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.Properties.Resources.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.VehicleSale.resources
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.GenerateResource.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfoInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.AssemblyInfo.cs
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.csproj.CoreCompileInputs.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\refint\VendaBoulevardAutoCentre.dll
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.pdb
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\VendaBoulevardAutoCentre.genruntimeconfig.cache
+C:\Users\Tembo\Desktop\UCT\INF1003F\INF_1003F_Project_TMBTEN003\INF_1003F_Project_TMBTEN003\VendaBoulevardAutoCentre\obj\Debug\net6.0-windows\ref\VendaBoulevardAutoCentre.dll
